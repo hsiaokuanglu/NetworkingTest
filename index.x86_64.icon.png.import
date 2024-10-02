@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dso16ow8v384g"
-path="res://.godot/imported/NetworkSSL.x86_64.icon.png-def50d07947d8e089c38b017e91590d7.ctex"
+uid="uid://odde7t77xt6a"
+path="res://.godot/imported/index.x86_64.icon.png-76ba45450d6149afd2365d917731688a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://export/web/NetworkSSL.x86_64.icon.png"
-dest_files=["res://.godot/imported/NetworkSSL.x86_64.icon.png-def50d07947d8e089c38b017e91590d7.ctex"]
+source_file="res://export/web/index.x86_64.icon.png"
+dest_files=["res://.godot/imported/index.x86_64.icon.png-76ba45450d6149afd2365d917731688a.ctex"]
 
 [params]
 
